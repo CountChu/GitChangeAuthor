@@ -3,7 +3,9 @@
 #       GitChangeAuthor.py - Git Change Author Application.
 #
 # FUNCTIONAL DESCRIPTION.
-#       The application changes author and keep date in git repository. 
+#       The Python application GitChangeAuthor.py changes author name and email
+#       of all commitments in a current branch , but keeps all timestamp in the branch 
+#       by doing the Git amend and rebase commands. 
 #
 # NOTICE.
 #       Author: visualge@gmail.com (CountChu)
