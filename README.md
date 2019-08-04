@@ -1,5 +1,5 @@
 # GitChangeAuthor
-The Python application GitChangeAuthor.py changes author name and email, but keeps timestamp for the current branch.
+The Python application GitChangeAuthor.py changes author, but keeps timestamp for the current branch.
 
 It changes author names and emails of all commitments in a current branch, but keeps all timestamp in the branch by doing the Git amend and rebase commands
 
